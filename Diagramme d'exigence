@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T19:26:37.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EaN4dOneZQDTQlZtq_lj" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T12:00:45.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="5KwIeoIWWPl232SaT4do" version="14.6.0" type="github">
   <diagram id="I8WaxmyG5WPzgomEBLXC" name="Page-1">
-    <mxGraphModel dx="1529" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYKmm-uCErlhpQszKnu8-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Alimenter&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;Snakebot est alimenté avec des piles de recharges sur un coupleur de piles&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="230" width="200" height="90" as="geometry" />
+          <mxGeometry x="-50" y="230" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DYKmm-uCErlhpQszKnu8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DYKmm-uCErlhpQszKnu8-14" target="DYKmm-uCErlhpQszKnu8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,22 @@
           <mxGeometry x="400" y="620" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DYKmm-uCErlhpQszKnu8-34" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Alimentation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;Pile type 1,5V AA&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="350" width="200" height="70" as="geometry" />
+          <mxGeometry x="-50" y="350" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8Hp7gdhX3iSZz-BUP4W1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Hp7gdhX3iSZz-BUP4W1-2" target="8Hp7gdhX3iSZz-BUP4W1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Hp7gdhX3iSZz-BUP4W1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Hp7gdhX3iSZz-BUP4W1-2" target="8Hp7gdhX3iSZz-BUP4W1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Hp7gdhX3iSZz-BUP4W1-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Esthétique&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;Snakebot est alimenté avec des piles de recharges sur un coupleur de piles&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="230" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8Hp7gdhX3iSZz-BUP4W1-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Couleurs&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;Caoutchouc ultra renforcée + aluminium forgé&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="380" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Hp7gdhX3iSZz-BUP4W1-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Composants&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;Arduino UNO 3 + Caméra immobile 180° PT415 + Coupleur de 2 piles + Module Bluetooth + Moteurs réducteurs +&amp;nbsp;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="480" width="200" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
