@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T21:58:33.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="tLatHi4nkzpMW5fbXcbB" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T19:39:05.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="KvWtUwLx0oPPFnfzM-ke" version="14.6.6" type="github">
   <diagram id="I8WaxmyG5WPzgomEBLXC" name="Page-1">
     <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="DYKmm-uCErlhpQszKnu8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DYKmm-uCErlhpQszKnu8-21" target="DYKmm-uCErlhpQszKnu8-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DYKmm-uCErlhpQszKnu8-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Avertir l&#39;utilisateur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="DYKmm-uCErlhpQszKnu8-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Avertir l&#39;utilisateur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;L&#39;utilsateur peut recevoir une image et de navigation de GPS grâce à des modules (electroniques)&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="480" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DYKmm-uCErlhpQszKnu8-22" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Telephone&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Text = &quot;signal sonore + information grâce à la conception de App Inventor on peux voir la localisation tec...&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
