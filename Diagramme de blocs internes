@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T12:43:32.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4czZ43VkIcIC50xbjuY_" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T12:53:09.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Jrj08DRKMtdEoV57AGFc" version="14.6.10" type="github">
   <diagram id="z6-W1XQouIIBF91ZQcPW" name="Page-1">
-    <mxGraphModel dx="1953" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2512" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,6 +305,15 @@
         </mxCell>
         <mxCell id="6HGtsAkDvtXbGmroj35Q-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://canary.contestimg.wish.com/api/webimage/5ee9d946cf5c0c1ba8018848-large.jpg?cache_buster=d21409e509fab9261bb193f6b96798d5;" vertex="1" parent="1">
           <mxGeometry x="-103.75" y="213.75" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6HGtsAkDvtXbGmroj35Q-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Visualiser&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6HGtsAkDvtXbGmroj35Q-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Localisez la position&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6HGtsAkDvtXbGmroj35Q-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Manoeuvre&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="495" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
