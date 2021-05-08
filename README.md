@@ -6,9 +6,9 @@ Et Du point de vue d'un designer d'un robot, il semblerait qu'il contient une ch
 Dans cette application, il y aura 2 "Screens" pour l'accueil et le mode pilotage avec un navigation GPS localisé grâce à ton position GPS ou bien d'un module GPS.             [Mise à jour le 09/05/2021] </h3>
 
 <p align "center">
-<img src="assets/app.jpg" width="290" height="500"/>
-<img src="assets/home.jpg" width="290" height="500"/>
-<img src="assets/control with gps.jpg" width="290" height="500"/>
+<img src="assets/app.jpg" width="270" height="500"/>
+<img src="assets/home.jpg" width="270" height="500"/>
+<img src="assets/control with gps.jpg" width="270" height="500"/>
 </p>
 
 # 🔌 Les composants
