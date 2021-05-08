@@ -1,5 +1,5 @@
 # Snakebot
-Snakebot est une application crée avec MIT App Inventor 2 qui permet de gérer le robot nommé "Snakebot"
+Snakebot est une application crée avec MIT App Inventor 2 qui permet de gérer le robot nommé "Snakebot" (plus de détails le 10/05/2021)
 
 <p align "center">
 <img src="assets/app.jpg" width="270" height="500"/>
