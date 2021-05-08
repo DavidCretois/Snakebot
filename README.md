@@ -1,7 +1,7 @@
 # Snakebot
 
 ## C'est quoi MIT App Inventor 2 ?
-![MITAppInventor Logo](logoAppInventor_bokjby.png)
+![MITAppInventor Logo](assets/logoAppInventor_bokjby.png)
 
 
 App Inventor pour Android est une application développée par Google. 
