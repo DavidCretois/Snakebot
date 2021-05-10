@@ -3,7 +3,7 @@
 <h3> Le robot "Snakebot" a but de chercher des victimes dans des accidents causé par des situations météorologiques (orgaes, seismes, tornades) ou bien dans des maisons incendiés.
 Snakebot est une application android crée avec MIT App Inventor 2 qui permet de piloter le robot nommé "Snakebot" grâce à le téléphone Android. Ce dernier comporte un module Bluetooth, un module de GPS, un microcontrôleur : Arduino UNO R3, un led RGB (vert) qui indiquera le fonctionnement d'un Snakebot. 
 Et Du point de vue d'un designer d'un robot, il semblerait qu'il contient une chenille en caoutchouc et certains parties seront en aluminium.
-Dans cette application, il y aura 2 "Screens" pour l'accueil et le mode pilotage avec un navigation GPS localisé grâce à ton position GPS ou bien d'un module GPS.             [Mise à jour le 10/05/2021] </h3>
+Dans cette application, il y aura 2 "Screens" pour l'accueil et le mode pilotage avec un navigation GPS localisé grâce à ton position GPS ou bien d'un module GPS.             [Mise à jour le 11/05/2021] </h3>
 
 <p align "center">
 <img src="assets/app.jpg" width="270" height="500"/>
